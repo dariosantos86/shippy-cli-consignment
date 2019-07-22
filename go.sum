@@ -43,6 +43,8 @@ github.com/dariosantos86/shippy-service-consignment v0.0.0-20190722140151-9ef5b0
 github.com/dariosantos86/shippy-service-consignment v0.0.0-20190722140151-9ef5b0c4bb0f/go.mod h1:c7bAdd7cWsWb+2FN5VuafKYmjt1uBFnCtNNTGj859oc=
 github.com/dariosantos86/shippy-service-consignment v0.0.0-20190722151308-46df78ecb9dd h1:g14usAFcC+xPgnL7jSPSryc6zwpbOxsDcIB1Osp5NLE=
 github.com/dariosantos86/shippy-service-consignment v0.0.0-20190722151308-46df78ecb9dd/go.mod h1:c7bAdd7cWsWb+2FN5VuafKYmjt1uBFnCtNNTGj859oc=
+github.com/dariosantos86/shippy-service-consignment v0.0.0-20190722153957-d02f00b035e7 h1:WxzsgSrOIN+lwSERIFE081HiEuOUjbxiwsZ8XBoepn8=
+github.com/dariosantos86/shippy-service-consignment v0.0.0-20190722153957-d02f00b035e7/go.mod h1:bAXKkRUajeut+9mMirYy5x3vrZSGtfIRcbcJgrVJ4Jg=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/docker/distribution v2.7.1+incompatible/go.mod h1:J2gT2udsDAN96Uj4KfcMRqY0/ypR+oyYUYmja8H+y+w=
